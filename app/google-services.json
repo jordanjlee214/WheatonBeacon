@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1314964642",
+    "project_id": "wheatonbeacon-809c6",
+    "storage_bucket": "wheatonbeacon-809c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1314964642:android:02f475c7af0ae67755c3fb",
+        "android_client_info": {
+          "package_name": "com.leejordan.wheatonbeacon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1314964642-7kjvp34oiarv7q25f55fbffpp2nr1bvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8H9h2VcnvBRWlaBFwHMcb55_Z14_cWZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1314964642-7kjvp34oiarv7q25f55fbffpp2nr1bvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
